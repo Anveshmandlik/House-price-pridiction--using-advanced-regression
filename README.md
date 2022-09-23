@@ -1,1 +1,1 @@
-# House-price-pridiction--using-advanced-regression
+# House-price-pridiction-using-advanced-regression
